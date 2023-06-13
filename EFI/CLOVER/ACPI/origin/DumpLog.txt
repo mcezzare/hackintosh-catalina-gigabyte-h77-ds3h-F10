@@ -1,0 +1,102 @@
+110:055  0:180  Found BIOS RSDP at %p
+110:055  0:000  Printing ACPI tables from RSDP %p ...
+110:055  0:000   %p: 'RSD PTR ÙALASKA(PÞ$', Rev: 17818951 (Acpi 2.0 or newer), Len: 36
+110:055  0:000    (Xsdt: %p, Rsdt: %p)
+110:055  0:000    %p: 'XSDTl', 'XSDT', Rev: 17818775, Len: 1
+110:055  0:000    %p: 'RSDTH', 'RSDT', Rev: 17818775, Len: 1
+110:055  0:000    Tables in Xsdt: 9
+110:055  0:000    0. %p: 'FACPô', 'FACP', Rev: 17818775, Len: 4
+110:055  0:000        (Dsdt: DE035178, Facs: DE052F80, XDsdt: de035178, XFacs: 0)
+110:055  0:000        %p: 'DSDT›', 'DSDT', Rev: 17818631, Len: 2
+110:056  0:000        %p: 'FACS@', Ver: 17818795, Len: 2
+110:056  0:000    1. %p: 'APIC’', 'APIC', Rev: 17818775, Len: 3
+110:056  0:000    2. %p: 'MCFG<', 'MCFG', Rev: 17818775, Len: 1
+110:056  0:000    3. %p: 'HPET8', 'HPET', Rev: 17818775, Len: 1
+110:056  0:000    4. %p: 'SSDTm', 'SSDT', Rev: 17818775, Len: 1
+110:056  0:000    5. %p: 'SSDTª	', 'SSDT', Rev: 17818775, Len: 1
+110:056  0:000    6. %p: 'SSDT’
+', 'SSDT', Rev: 17818775, Len: 1
+110:056  0:000    7. %p: 'DMAR€', 'DMAR', Rev: 17818775, Len: 1
+110:056  0:000    8. %p: 'BGRT8', 'BGRT', Rev: 17818775, Len: 0
+110:056  0:000    Tables in Rsdt: 9
+110:056  0:000    0. %p: 'FACP„', 'FACP', Rev: 17818775, Len: 2
+110:056  0:000        (Dsdt: DE035178, Facs: DE052F40)
+110:056  0:000        %p: 'DSDT›', 'DSDT', Rev: 17818631, Len: 2
+110:057  0:000        %p: 'FACS@', Ver: 17818795, Len: 0
+110:057  0:000    1. %p: 'APIC’', 'APIC', Rev: 17818775, Len: 3
+110:057  0:000    2. %p: 'MCFG<', 'MCFG', Rev: 17818775, Len: 1
+110:057  0:000    3. %p: 'HPET8', 'HPET', Rev: 17818775, Len: 1
+110:057  0:000    4. %p: 'SSDTm', 'SSDT', Rev: 17818775, Len: 1
+110:057  0:000    5. %p: 'SSDTª	', 'SSDT', Rev: 17818775, Len: 1
+110:057  0:000    6. %p: 'SSDT’
+', 'SSDT', Rev: 17818775, Len: 1
+110:057  0:000    7. %p: 'DMAR€', 'DMAR', Rev: 17818775, Len: 1
+110:057  0:000    8. %p: 'BGRT8', 'BGRT', Rev: 17818775, Len: 0
+110:057  0:000  Found UEFI Acpi 2.0 RSDP at %p
+110:057  0:000  Saving ACPI tables from RSDP %p to å’â„å‘â’ä‡™ä…Œä­“Éå€¨$ ...
+110:057  0:000   %p: 'RSD PTR ÙALASKA(PÞ$', Rev: 17818951 (Acpi 2.0 or newer), Len: 36
+110:057  0:000    (Xsdt: %p, Rsdt: %p)
+110:057  0:000    %p: 'XSDTl', 'XSDT', Rev: 17818775, Len: 1
+110:057  0:000    %p: 'RSDTH', 'RSDT', Rev: 17818775, Len: 1
+110:057  0:000    Tables in Xsdt: 9
+110:057  0:000    0. %p: 'FACPô', 'FACP', Rev: 17818775, Len: 4
+110:057  0:000        (Dsdt: DE035178, Facs: DE052F80, XDsdt: de035178, XFacs: 0)
+110:057  0:000        %p: 'DSDT›', 'DSDT', Rev: 17818631, Len: 2
+110:057  0:000        %p: 'FACS@', Ver: 17818795, Len: 2
+110:057  0:000    1. %p: 'APIC’', 'APIC', Rev: 17818775, Len: 3
+110:057  0:000    2. %p: 'MCFG<', 'MCFG', Rev: 17818775, Len: 1
+110:057  0:000    3. %p: 'HPET8', 'HPET', Rev: 17818775, Len: 1
+110:057  0:000    4. %p: 'SSDTm', 'SSDT', Rev: 17818775, Len: 1
+110:057  0:000    5. %p: 'SSDTª	', 'SSDT', Rev: 17818775, Len: 1
+110:057  0:000    6. %p: 'SSDT’
+', 'SSDT', Rev: 17818775, Len: 1
+110:057  0:000    7. %p: 'DMAR€', 'DMAR', Rev: 17818775, Len: 1
+110:057  0:000    8. %p: 'BGRT8', 'BGRT', Rev: 17818775, Len: 0
+110:057  0:000    Tables in Rsdt: 9
+110:057  0:000    0. %p: 'FACP„', 'FACP', Rev: 17818775, Len: 2
+110:057  0:000        (Dsdt: DE035178, Facs: DE052F40)
+110:057  0:000        %p: 'DSDT›', 'DSDT', Rev: 17818631, Len: 2
+110:058  0:000        %p: 'FACS@', Ver: 17818795, Len: 0
+110:058  0:000    1. %p: 'APIC’', 'APIC', Rev: 17818775, Len: 3
+110:058  0:000    2. %p: 'MCFG<', 'MCFG', Rev: 17818775, Len: 1
+110:058  0:000    3. %p: 'HPET8', 'HPET', Rev: 17818775, Len: 1
+110:058  0:000    4. %p: 'SSDTm', 'SSDT', Rev: 17818775, Len: 1
+110:058  0:000    5. %p: 'SSDTª	', 'SSDT', Rev: 17818775, Len: 1
+110:058  0:000    6. %p: 'SSDT’
+', 'SSDT', Rev: 17818775, Len: 1
+110:058  0:000    7. %p: 'DMAR€', 'DMAR', Rev: 17818775, Len: 1
+110:058  0:000    8. %p: 'BGRT8', 'BGRT', Rev: 17818775, Len: 0
+110:058  0:000  Found UEFI Acpi 1.0 RSDP at %p
+110:058  0:000  Printing ACPI tables from RSDP %p ...
+110:058  0:000   %p: 'RSD PTR ÙALASKA(PÞ$', Rev: 17818951 (Acpi 2.0 or newer), Len: 36
+110:058  0:000    (Xsdt: %p, Rsdt: %p)
+110:058  0:000    %p: 'XSDTl', 'XSDT', Rev: 17818775, Len: 1
+110:058  0:000    %p: 'RSDTH', 'RSDT', Rev: 17818775, Len: 1
+110:058  0:000    Tables in Xsdt: 9
+110:058  0:000    0. %p: 'FACPô', 'FACP', Rev: 17818775, Len: 4
+110:058  0:000        (Dsdt: DE035178, Facs: DE052F80, XDsdt: de035178, XFacs: 0)
+110:058  0:000        %p: 'DSDT›', 'DSDT', Rev: 17818631, Len: 2
+110:058  0:000        %p: 'FACS@', Ver: 17818795, Len: 2
+110:058  0:000    1. %p: 'APIC’', 'APIC', Rev: 17818775, Len: 3
+110:058  0:000    2. %p: 'MCFG<', 'MCFG', Rev: 17818775, Len: 1
+110:058  0:000    3. %p: 'HPET8', 'HPET', Rev: 17818775, Len: 1
+110:058  0:000    4. %p: 'SSDTm', 'SSDT', Rev: 17818775, Len: 1
+110:058  0:000    5. %p: 'SSDTª	', 'SSDT', Rev: 17818775, Len: 1
+110:058  0:000    6. %p: 'SSDT’
+', 'SSDT', Rev: 17818775, Len: 1
+110:058  0:000    7. %p: 'DMAR€', 'DMAR', Rev: 17818775, Len: 1
+110:058  0:000    8. %p: 'BGRT8', 'BGRT', Rev: 17818775, Len: 0
+110:058  0:000    Tables in Rsdt: 9
+110:058  0:000    0. %p: 'FACP„', 'FACP', Rev: 17818775, Len: 2
+110:058  0:000        (Dsdt: DE035178, Facs: DE052F40)
+110:058  0:000        %p: 'DSDT›', 'DSDT', Rev: 17818631, Len: 2
+110:059  0:000        %p: 'FACS@', Ver: 17818795, Len: 0
+110:059  0:000    1. %p: 'APIC’', 'APIC', Rev: 17818775, Len: 3
+110:059  0:000    2. %p: 'MCFG<', 'MCFG', Rev: 17818775, Len: 1
+110:059  0:000    3. %p: 'HPET8', 'HPET', Rev: 17818775, Len: 1
+110:059  0:000    4. %p: 'SSDTm', 'SSDT', Rev: 17818775, Len: 1
+110:059  0:000    5. %p: 'SSDTª	', 'SSDT', Rev: 17818775, Len: 1
+110:059  0:000    6. %p: 'SSDT’
+', 'SSDT', Rev: 17818775, Len: 1
+110:059  0:000    7. %p: 'DMAR€', 'DMAR', Rev: 17818775, Len: 1
+110:059  0:000    8. %p: 'BGRT8', 'BGRT', Rev: 17818775, Len: 0
