@@ -1,0 +1,110 @@
+
+
+─ CPU
+  └── Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+      ├── Cores: 4 cores
+      ├── Threads: 8 threads
+      ├── SSE: SSE4.2
+      └── SSSE3: Supported
+
+─ Vendor
+  ├── Model: iMac13,2
+  └── Manufacturer: Apple Inc.
+
+─ GPU
+  └── Radeon RX 480
+      ├── Vendor ID: 0x1002
+      ├── Device ID: 0x67df
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)
+      ├── ACPI Path: \_SB.PCI0.PEG0.PEGP
+      └── Codename: Polaris 10
+
+─ Memory
+  ├── TMT251U6EFR8C-PBHCN0 (Part-Number)
+  │   ├── Type: DDR3
+  │   ├── Slot
+  │   │   ├── Bank: BANK 0
+  │   │   └── Channel: DIMM0
+  │   ├── Frequency (MHz): 1600 MHz
+  │   ├── Manufacturer: 8502
+  │   └── Capacity: 4096MB
+  ├── TMT251U6EFR8C-PBHCN0 (Part-Number)
+  │   ├── Type: DDR3
+  │   ├── Slot
+  │   │   ├── Bank: BANK 1
+  │   │   └── Channel: DIMM0
+  │   ├── Frequency (MHz): 1600 MHz
+  │   ├── Manufacturer: 079E
+  │   └── Capacity: 4096MB
+  ├── PSD34G16002 (Part-Number)
+  │   ├── Type: DDR3
+  │   ├── Slot
+  │   │   ├── Bank: BANK 0
+  │   │   └── Channel: DIMM1
+  │   ├── Frequency (MHz): 1600 MHz
+  │   ├── Manufacturer: Patriot Memory (PDP Systems)
+  │   └── Capacity: 4096MB
+  └── PSD34G16002 (Part-Number)
+      ├── Type: DDR3
+      ├── Slot
+      │   ├── Bank: BANK 1
+      │   └── Channel: DIMM1
+      ├── Frequency (MHz): 1600 MHz
+      ├── Manufacturer: Patriot Memory (PDP Systems)
+      └── Capacity: 4096MB
+
+─ Network
+  └── AR8151 v2.0 Gigabit Ethernet
+      ├── Device ID: 0x1083
+      ├── Vendor: 0x1969
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1c,0x2)/Pci(0x0,0x0)
+      └── ACPI Path: \_SB.PCI0.RP03.PXSX
+
+─ Audio
+  ├── 7 Series/C216 Chipset Family High Definition Audio Controller
+  │   ├── Device ID: 0x1e20
+  │   ├── Vendor: 0x8086
+  │   ├── PCI Path: PciRoot(0x0)/Pci(0x1b,0x0)
+  │   └── ACPI Path: \_SB.PCI0.HDEF
+  └── Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]
+      ├── Device ID: 0xaaf0
+      ├── Vendor: 0x1002
+      ├── PCI Path: PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x1)
+      └── ACPI Path: \_SB.PCI0.PEG0.HDAU
+
+─ Input
+  ├── USB Audio CODEC  (USB)
+  │   ├── Device ID: 0x2900
+  │   └── Vendor: 0x8bb
+  ├── USB Optical Mouse (USB)
+  │   ├── Device ID: 0xc05a
+  │   └── Vendor: 0x46d
+  └── MicrosoftÆ 2.4GHz Transceiver v6.0 (USB)
+      ├── Device ID: 0x745
+      └── Vendor: 0x45e
+
+─ Storage
+  ├── ST1000LM014-1EJ164
+  │   ├── Type: Hard Disk Drive (HDD)
+  │   ├── Connector: SATA
+  │   └── Location: Internal
+  └── KINGSTON SA400S37480G
+      ├── Type: Solid State Drive (SSD)
+      ├── Connector: SATA
+      └── Location: Internal
+
+─ Displays
+  ├── DELLP2219H (Radeon RX 480)
+  │   ├── Product ID: 0xa114
+  │   ├── Vendor ID: 0x10ac
+  │   ├── Serial: 808473932
+  │   ├── Resolution: 1344x1080
+  │   ├── Size (in inches): 22”
+  │   └── Display mode: Landscape
+  └── LGTV (Radeon RX 480)
+      ├── Product ID: 0x5696
+      ├── Vendor ID: 0x1e6d
+      ├── Serial: 0
+      ├── Resolution: 1680x1050
+      ├── Size (in inches): 22”
+      └── Display mode: Landscape

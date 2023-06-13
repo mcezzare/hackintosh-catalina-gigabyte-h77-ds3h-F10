@@ -16,3 +16,5 @@ Create a bootable pen, or just create a EFI partition and use a clean install wi
 sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 
 ```
+
+[Hardware list](./hardware_list.txt) created with [OCSysInfo](https://github.com/KernelWanderers/OCSysInfo)
